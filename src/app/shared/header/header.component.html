@@ -1,0 +1,31 @@
+<mat-toolbar class="" [ngClass]="{'ac-toolbar-public': tipoPage==1,'ac-toolbar-admin':tipoPage==0}" >
+  <button [matMenuTriggerFor]="menu" mat-icon-button class="ac-buttom-menu"  aria-label="Example icon-button with menu icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <!-- accent -->
+  <span class="example-spacer"></span>
+
+  <div class="ac-buttom-menu">
+    <button mat-icon-button aria-label="Example icon-button with menu icon">
+      <img src="/assets/imagenes/logos/logo.png" alt="menu">
+    </button>
+  </div>
+</mat-toolbar>
+
+<mat-menu #menu="matMenu">
+
+  <a mat-menu-item href="/home">
+    <mat-icon>home</mat-icon>
+    HOME
+  </a>
+
+  <a mat-menu-item href="/categorias">
+    <mat-icon>face</mat-icon>
+   CATEGORIAS
+  </a>
+  <a mat-menu-item href="/nosotros">
+    <mat-icon>contact_phone</mat-icon>
+    NOSOTROS
+  </a>
+</mat-menu>
+
