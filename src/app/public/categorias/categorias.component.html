@@ -1,1 +1,15 @@
-<p>CATEGORIAS</p>
+<h1 class="text-center">PLANES DE AHORRO BMI</h1>
+
+
+<div class="row" >
+  <div class="col-lg-4" *ngFor="let archivos of archivos">
+    <div class="card" style="width: 18rem;">
+      <img src={{archivos.url}} class="card-img-top" alt="...">
+      <div class="card-body">
+        <h3 class="card-title"><b>{{archivos.nombre}}</b></h3>
+        <p class="card-text">{{archivos.descripcion}}</p>
+        <a href="#" class="btn btn-primary">MAS INFORMACION</a>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,48 @@
+{
+
+    "archivos":[
+
+        {
+            "id":1,
+            "categoria":"imagen",
+            "nombre":"PLAN DE JUBILACION",
+            "descripcion":"Nosotros nos encargamos de tu tranquilidad para que tengas el futuro deseado con tu jubilación. 😊Comunícate con nosotros para una mejor asesoría y aclarar todas tus dudas. 👍 😀 ¡Tú futuro es nuestra prioridad!",
+            "url":"https://scontent.fuio18-1.fna.fbcdn.net/v/t39.30808-6/283856096_189449080073916_5638539295697154020_n.jpg?stp=dst-jpg_p526x296&_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHKd70jUZyKmpIVZVK5d1vIjVaekbAKJjSNVp6RsAomNCU_vIZtVd_W4SA1cyTug21Oc_61y4QdR1DFNrmSI_c0&_nc_ohc=Sq8gs9oPBccAX9nzLWh&_nc_ht=scontent.fuio18-1.fna&oh=00_AT9l7qwEqjVgQkItIVdHSYbFtkCJninAmskTllsgnOfMwQ&oe=62A238D5"
+        },
+        {
+            "id":2,
+            "categoria":"imagen",
+            "nombre":"PLAN DE ESTUDIO",
+            "descripcion":"Con plan sustentado en acciones, podrás asegurar su futuro.🤗🤩 Comunícate con nosotros para una mejor asesoría y aclarar todas tus dudas. 👍 😀 ¡Tú futuro es nuestra prioridad!",
+            "url":"https://scontent.fuio18-1.fna.fbcdn.net/v/t39.30808-6/283847843_189471336738357_1527437515125806371_n.jpg?stp=dst-jpg_p526x296&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGtpq3ZWG2xkAjkYIP9H7Tkre1p_DK34Gat7Wn8MrfgZpYnmPUDkYebqE9tMl9ALWeU_t0kbkqDfin78Mf95N3A&_nc_ohc=XWHpXXIPI-8AX8Iz5ct&_nc_ht=scontent.fuio18-1.fna&oh=00_AT-VVnGKTFLn44Hdh1pEohQfT4NJd0FuAfLCENcJelS-fg&oe=62A15B5C"
+        },
+        {
+            "id":3,
+            "categoria":"imagen",
+            "nombre":"PLAN DE AHORRO",
+            "descripcion":"No pongas tu interés en el dinero, pero ahorra para poner tu dinero a tus intereses. 💰🤩 Comunícate con nosotros para una mejor asesoría y aclarar todas tus dudas. 👍 😀 ¡Tú futuro es nuestra prioridad!",
+            "url":"https://scontent.fuio18-1.fna.fbcdn.net/v/t39.30808-6/283906522_189464160072408_2414995618938953151_n.jpg?stp=dst-jpg_p526x296&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeE9QJ_gR93ywTqXZKYuHU0h4WDPC_JqpvXhYM8L8mqm9dmEqLiNf2m9lCNAYuX2p8NwJaVu1bK0mpwKOhgxeCbT&_nc_ohc=m5k8rHuAekcAX8DYDcG&_nc_ht=scontent.fuio18-1.fna&oh=00_AT8_T7KZm2JMx5imN6Mauo_X6IuOnbXKfvv2J2vgvcxAqg&oe=62A2D1CE"
+        },
+        {
+            "id":4,
+            "categoria":"imagen",
+            "nombre":"PLAN JUBILACION",
+            "descripcion":"Con tu plan de jubilación asegura tu futuro y el de las personas que mas te importan. 👩‍🦳🧓 Comunícate con nosotros para una mejor asesoría y aclarar todas tus dudas. 👍 😀¡Tú futuro es nuestra prioridad!",
+            "url":"https://scontent.fuio18-1.fna.fbcdn.net/v/t39.30808-6/283962966_189448096740681_3387560616008063457_n.jpg?stp=dst-jpg_p526x296&_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGLTQyMGH2pxVpWI4kTNWPGq1LXLqcXL5GrUtcupxcvkSiy9QRtmON-W6jkaNK2IoXGLQZ1h2rtQRK7QsvuMYRI&_nc_ohc=bUIKIvxbjOYAX-htc97&_nc_ht=scontent.fuio18-1.fna&oh=00_AT9m23qZ_YG9LARIk0KiwUG8L1r9mNyLZWSOYwimSXUOng&oe=62A2CA04"
+        },
+        {
+            "id":5,
+            "categoria":"imagen",
+            "nombre":"PLAN DE ESTUDIO",
+            "descripcion":"Sin duda esta es la mejor inversión para el futuro de tus hijos.🤓 Comunícate con nosotros para una mejor asesoría y aclarar todas tus dudas. 👍 😀 ¡Tú futuro es nuestra prioridad!",
+            "url":"https://scontent.fuio18-1.fna.fbcdn.net/v/t39.30808-6/283851925_189470926738398_6853601263367394458_n.jpg?stp=dst-jpg_p526x296&_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEqbeGqQa_Gzmgl0K1zPrjJXFvqXsQp659cW-pexCnrn5VkCalvjrVB05mxjw7tpigEHzm31ePOn9eNLSu6rZOL&_nc_ohc=IEY3-IWnnUEAX9jgHRJ&_nc_ht=scontent.fuio18-1.fna&oh=00_AT8nCcMonvd0sTAiASKvZuhS-3TgI5J0V9YFAxFVBAxNwA&oe=62A14C57"
+        },
+        {
+            "id":6,
+            "categoria":"imagen",
+            "nombre":"PLAN DE AHORRO",
+            "descripcion":"No se deje a usted ni a su familia desprotegidos contra tormentas financieras, empieza tus ahorros. 💰💰💰 Comunícate con nosotros para una mejor asesoría y aclarar todas tus dudas. 👍 😀¡Tú futuro es nuestra prioridad!",
+            "url":"https://scontent.fuio18-1.fna.fbcdn.net/v/t39.30808-6/283943828_189463690072455_7695645719289404201_n.jpg?stp=dst-jpg_p526x296&_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHNIrxAttWm0N-bWzzbWg8FilJ7VKby5iiKUntUpvLmKA7oDQBiW1SMwOBdXg6hRv2LVYtCEgbIrdKGK4ZC1hT2&_nc_ohc=JTnnWzo_AXsAX9jnmF9&_nc_ht=scontent.fuio18-1.fna&oh=00_AT_H3RuF9FNOkJOqIXGmu8AQuT7qHXcmTL_qDDsEyGoVkw&oe=62A1E739"
+        }
+    ]
+}

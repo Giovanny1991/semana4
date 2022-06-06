@@ -1,16 +1,4 @@
-<mat-toolbar class="" [ngClass]="{'ac-toolbar-public': tipoPage==1,'ac-toolbar-admin':tipoPage==0}" >
-  <button [matMenuTriggerFor]="menu" mat-icon-button class="ac-buttom-menu"  aria-label="Example icon-button with menu icon">
-    <mat-icon>menu</mat-icon>
-  </button>
-  <!-- accent -->
-  <span class="example-spacer"></span>
 
-  <div class="ac-buttom-menu">
-    <button mat-icon-button aria-label="Example icon-button with menu icon">
-      <img src="/assets/imagenes/logos/logo.png" alt="menu">
-    </button>
-  </div>
-</mat-toolbar>
 
 <mat-menu #menu="matMenu">
 
@@ -21,11 +9,30 @@
 
   <a mat-menu-item href="/categorias">
     <mat-icon>face</mat-icon>
-   CATEGORIAS
+   PLANES DE AHORRO
   </a>
   <a mat-menu-item href="/nosotros">
     <mat-icon>contact_phone</mat-icon>
-    NOSOTROS
+    CONTACTANOS
   </a>
 </mat-menu>
 
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
+  <button [matMenuTriggerFor]="menu" mat-icon-button class="ac-buttom-menu"  aria-label="Example icon-button with menu icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">HOME <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/categorias">PLANES DE AHORRO</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/nosotros">CONTACTANOS</a>
+      </li>
+    </ul>
+  </div>
+</nav>
